@@ -42,4 +42,4 @@ Depending on the tweet type, TweetGPT can sometimes generate controversial or ev
 Remember, this is like an L2 autopilot - the driver is responsible for the outcome. Don't tweet what you disagree with, just re-generate the tweet instead.
 
 ## Feedback
-If you have feedback, please create an issue in the repository or simply send me a DM in Twitter: [@512x512](https://twitter.com/512x512)
+If you have feedback, please create an issue in the repository or simply send me a DM in Twitter: [@0x7C2f](https://twitter.com/0x7C2f)
